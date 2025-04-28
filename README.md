@@ -63,4 +63,3 @@ If you have any questions or need further assistance, feel free to create an iss
 - Ensured proper Markdown formatting for GitHub, including a clickable link for the repository and the LICENSE file.
 - The file is ready to be copied and pasted into the `README.md` of the repository.
 
-Let me know if you need further adjustments or additional details!
