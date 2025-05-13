@@ -1,9 +1,5 @@
 # Adaptive DNS DDoS Toolkit ⚡️🌐
 
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*OlyA47-o7YINcaYzLDe9yQ.gif" alt="Toolkit Animation" style="max-width: 100%; height: auto;">
-</p>
-
 A flexible and adaptive toolkit for performing DNS-based DDoS attacks, with various attack types including DNS Flood, DNS Amplification, NXDOMAIN, DNS Hijacking, and DRDoS. This tool is intended for educational and testing purposes only on systems where you have explicit permission.
 
 **Author**: Teleguard ID THMYULYWN  
