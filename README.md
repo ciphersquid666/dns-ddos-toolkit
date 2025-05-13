@@ -1,6 +1,6 @@
 # Adaptive DNS DDoS Toolkit ⚡️🌐
 
-![Toolkit DDoS GIF](https://media0.giphy.com/media/5YcpdtrcwIARW/100.gif?cid=6c09b952hhbwxg3a8lmou4ls26k0j2kf5wqgh3tjngqbwoil&ep=v1_gifs_search&rid=100.gif&ct=g)
+![Toolkit Animation](https://miro.medium.com/v2/resize:fit:1400/1*OlyA47-o7YINcaYzLDe9yQ.gif)
 
 A flexible and adaptive toolkit for performing DNS-based DDoS attacks, with various attack types including DNS Flood, DNS Amplification, NXDOMAIN, DNS Hijacking, and DRDoS. This tool is intended for educational and testing purposes only on systems where you have explicit permission.
 
